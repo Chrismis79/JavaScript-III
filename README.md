@@ -34,3 +34,14 @@ The prototype challenge will focus on building prototypes for a fantasy themed g
 
 * Read the instructions found within the file carefully to finish the challenges. 
 * Remember to un-comment the objects and console logs to test your work at the bottom of the page.
+
+
+Describe the biggest difference between .forEach & .map.
+
+What is the difference between a function and a method?
+
+What is closure?
+
+Describe the four rules of the 'this' keyword.
+
+Why do we need super() in an extended class?
