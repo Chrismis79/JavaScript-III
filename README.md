@@ -36,12 +36,12 @@ The prototype challenge will focus on building prototypes for a fantasy themed g
 * Remember to un-comment the objects and console logs to test your work at the bottom of the page.
 
 
-Describe the biggest difference between .forEach & .map.
+- Be able to explain the difference between forEach and .map.
 
-What is the difference between a function and a method?
+-Be able to explain the  difference between a function and a method.
 
-What is closure?
+-Be able to explain what closure is.
 
-Describe the four rules of the 'this' keyword.
+- Be able to describe the four rules of the 'this' keyword.
 
-Why do we need super() in an extended class?
+-Be able to explain why need super() in an extended class.

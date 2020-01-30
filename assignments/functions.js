@@ -59,23 +59,7 @@ function removeDuplicates(array, cb) {
 
 // ==== Closures ==== 
 
-// Explain in your own words why nestedfunction can access the variable internal.
-
-// Explanation: 
+// Explain in your own words why a nested function can access the variable inside a nested function.
 
 
-const external = "I'm outside the function";
 
-function myFunction() {
-  console.log(external);
-  const internal = "Hello! I'm inside myFunction!";
-
-  function nestedFunction() {
-    console.log(internal);
-  };
-  nestedFunction();
-}
-myFunction();
-
-
-////////////////////////////////////////////More practice
